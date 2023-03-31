@@ -1,0 +1,1 @@
+{"name":"Local: newc++","url":"/Users/wanglongfei/Desktop/c++/solutions/newc++.cpp","tests":[{"id":1650456438095,"input":"7 4\n-1 1 1 1 2 2 3\n5\n6\n2\n4\n","output":"123 + 456 = 579"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/wanglongfei/Desktop/c++/solutions/newc++.cpp","group":"local","local":true}

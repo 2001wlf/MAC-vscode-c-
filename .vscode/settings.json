@@ -1,0 +1,19 @@
+{
+      "files.associations": {
+            "set": "cpp",
+            "stack": "cpp",
+            "unordered_map": "cpp",
+            "iostream": "cpp",
+            "iosfwd": "cpp",
+            "ostream": "cpp",
+            "cstdio": "cpp",
+            "vector": "cpp",
+            "chrono": "cpp",
+            "cstring": "cpp",
+            "map": "cpp",
+            "ios": "cpp",
+            "queue": "cpp",
+            "tuple": "cpp"
+      },
+      "C_Cpp.errorSquiggles": "disabled"
+}

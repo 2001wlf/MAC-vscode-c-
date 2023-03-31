@@ -1,0 +1,1 @@
+{"name":"Local: data","url":"/Users/wanglongfei/Desktop/c++/solutions/compare/data.cpp","tests":[{"id":1652954757104,"input":"12 8\n8 12\n6 8\n2 6\n1 8\n1 7\n2 9\n3 12\n4 9\n5 1\n6 12\n7 6\n8 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/wanglongfei/Desktop/c++/solutions/compare/data.cpp","group":"local","local":true}
